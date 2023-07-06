@@ -10,7 +10,7 @@ FiuFit es una app de fitness diseñada para ayudar a atletas a descubrir nuevos 
 
 ### Frontend
 
-El frontend se basó en `React` para su parte mobile, y `React Native` para el desarrollo de la página web de backoffice. A su vez, el API Gateway fue desarrollado en `Node.js`.
+El frontend se basó en `React Native` para su parte mobile, y `React` para el desarrollo de la página web de backoffice. A su vez, el API Gateway fue desarrollado en `Node.js`.
 
 Documentación de cada componente:
 
