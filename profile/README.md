@@ -15,6 +15,7 @@ El frontend se basó en `React Native` para su parte mobile, y `React` para el d
 Documentación de cada componente:
 
  - [App Mobile](https://github.com/T2-1c2023/AppMobile/blob/master/README.md)
+ - [App Mobile - Guía de usuario](http://scapelli.ar/MobileAppGuide/)
  - [Backoffice Web](https://github.com/T2-1c2023/WebAdmin/blob/main/README.md)
  - [API Gateway](https://github.com/T2-1c2023/APIGatewayService/blob/main/README.md)
 
